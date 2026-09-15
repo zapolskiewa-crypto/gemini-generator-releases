@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "download_url": "https://github.com/zapolskiewa-crypto/gemini-generator-releases/releases/download/v0.9.0/GeminiGenerator.zip",
-  "changelog": "Initial release v0.9.0",
-  "min_version": "0.1.0"
+  "version": "1.0.0",
+  "download_url": "https://github.com/zapolskiewa-crypto/gemini-generator-releases/releases/download/v1.0.0/GeminiGenerator.zip",
+  "changelog": "Первый релиз v1.0.0: лицензирование, 8 языков, видео-генерация, быстрые промты",
+  "min_version": "0.9.0"
 }
