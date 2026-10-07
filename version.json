@@ -1,6 +1,4 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/zapolskiewa-crypto/gemini-generator-releases/releases/download/v1.0.0/GeminiGenerator.zip",
-  "changelog": "Первый релиз v1.0.0: лицензирование, 8 языков, видео-генерация, быстрые промты",
-  "min_version": "0.9.0"
+  "payload": "eyJhcHAiOiJnZW1pbmktaW1hZ2UtZ2VuZXJhdG9yIiwidmVyc2lvbiI6IjEuMC4wIiwiZG93bmxvYWRfdXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL3phcG9sc2tpZXdhLWNyeXB0by9nZW1pbmktZ2VuZXJhdG9yLXJlbGVhc2VzL3JlbGVhc2VzL2Rvd25sb2FkL3YxLjAuMC9HZW1pbmlJbWFnZUdlbmVyYXRvci0xLjAuMC11cGRhdGUuemlwIiwic2hhMjU2IjoiNjk2MGJmM2VjNWVjYjg0NGVkODgxYWZkNTIwMDJjYWUxODNkZmQ4ZjlkYWJjYTNlOGM0ZjhhZmNhMTAwYjY4YyJ9",
+  "signature": "x259hDLUwiiVwvo-5a4Iu55qiJS1rYRfBSMl8o6FWNyxBiag2NqSJ2xAaqFgAMSV3B_m4wjeBTxQ4wdlt2hcAA"
 }
