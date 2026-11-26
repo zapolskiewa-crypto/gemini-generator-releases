@@ -1,0 +1,111 @@
+{
+  "__version__": "1.0.4",
+  "__schema__": 2,
+  "input_field": [
+    "rich-textarea div[contenteditable='true']",
+    "div.ql-editor[contenteditable='true']",
+    "div[contenteditable='true'][aria-label]",
+    "div[contenteditable='true'][role='textbox']",
+    "[contenteditable='true']",
+    "textarea"
+  ],
+  "send_button": [
+    "button[aria-label='Send message']",
+    "button[aria-label='Отправить сообщение']",
+    "button[aria-label='Send']",
+    "button[aria-label='Отправить']",
+    "button.send-button",
+    "button[data-at='send']",
+    "button[mat-icon-button] mat-icon[data-mat-icon-name='send']"
+  ],
+  "upload_trigger": [
+    "button[aria-label='Загрузка и инструменты']",
+    "button[aria-label='Upload and tools']",
+    "button[aria-label='Add image']",
+    "button[aria-label='Добавить изображение']",
+    "button[aria-label='Add files']",
+    "button[aria-label='Добавить файлы']",
+    "button[aria-label*='Upload']",
+    "button[aria-label*='Загрузить']",
+    "button[aria-label*='attach']",
+    "button[aria-label*='Add']",
+    "button[aria-label*='Добавить']"
+  ],
+  "file_input": [
+    "input[type='file']"
+  ],
+  "response_container": [
+    "model-response",
+    ".model-response-content",
+    ".response-container",
+    "message-content.model-response",
+    "[data-message-author-role='model']"
+  ],
+  "loading": [
+    "mat-progress-bar",
+    ".loading-indicator",
+    ".thinking-indicator",
+    ".typing-indicator",
+    "[aria-label*='loading']",
+    "[aria-label*='Generating']",
+    "[aria-label*='Загрузка']",
+    "[aria-label*='Генерация']",
+    "message-loading"
+  ],
+  "stop_button": [
+    "button[aria-label='Остановить ответ']",
+    "button[aria-label='Stop response']",
+    "button[aria-label='Stop generating']",
+    "button[aria-label='Остановить генерацию']",
+    "button[aria-label*='Остановить ответ']",
+    "button[aria-label*='Stop response']",
+    "button[aria-label='Stop']",
+    "button[aria-label='Стоп']"
+  ],
+  "chat_menu_trigger": [
+    "button[aria-label=\"Открыть меню действий с чатом.\"]",
+    "button[aria-label=\"Open conversation actions menu.\"]",
+    "button[aria-label=\"Open conversation actions menu\"]",
+    ".conversation-item.selected button[aria-label='More']",
+    ".conversation-item.selected button[aria-label='Ещё']",
+    ".conversation-item.active button[aria-label='More']",
+    ".conversation-item.active button[aria-label='Ещё']",
+    ".selected button[aria-label*='options']",
+    ".selected button[aria-label*='menu']",
+    ".selected button[aria-label*='More']",
+    ".active button[aria-label*='More']"
+  ],
+  "delete_option": [
+    "gem-menu-item[data-test-id=\"delete-button\"]",
+    "[role=\"menuitem\"][data-test-id=\"delete-button\"]",
+    "gem-menu-item:has-text(\"Удалить\")",
+    "gem-menu-item:has-text(\"Delete\")",
+    "button:has-text('Delete')",
+    "button:has-text('Удалить')",
+    "[role='menuitem']:has-text('Delete')",
+    "[role='menuitem']:has-text('Удалить')",
+    "mat-menu-item:has-text('Delete')",
+    "mat-menu-item:has-text('Удалить')"
+  ],
+  "delete_confirm": [
+    "mat-dialog-container button:has-text(\"Удалить\")",
+    "mat-dialog-container button:has-text(\"Delete\")",
+    "[role=\"dialog\"] button:has-text(\"Удалить\")",
+    "[role=\"dialog\"] button:has-text(\"Delete\")"
+  ],
+  "reference_composer": [
+    "input-area-v2",
+    "chat-input",
+    ".input-area",
+    ".chat-input-container"
+  ],
+  "reference_previews": [
+    "img"
+  ],
+  "new_chat": [
+    "button[aria-label=\"New chat\"]",
+    "a[aria-label=\"New chat\"]",
+    "button[aria-label=\"Новый чат\"]",
+    "a[aria-label=\"Новый чат\"]"
+  ]
+}
