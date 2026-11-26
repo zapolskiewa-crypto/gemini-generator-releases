@@ -3,7 +3,7 @@
 Последовательная генерация изображений в **Gemini** и **ChatGPT** для Windows x64.
 Интерфейс на русском и английском. Видео доступно в Gemini.
 
-[Скачать установщик 1.0.3](https://github.com/zapolskiewa-crypto/gemini-generator-releases/releases/latest)
+[Скачать установщик 1.0.4](https://github.com/zapolskiewa-crypto/gemini-generator-releases/releases/latest)
 
 Python устанавливать не нужно. Для генерации нужны Chrome, интернет и собственные аккаунты сервисов.
 
@@ -23,6 +23,13 @@ Python устанавливать не нужно. Для генерации н�
 Обновление с 1.0.1 предлагается после публикации подписанного манифеста. Если старая сборка выдаёт `Permission denied` при обновлении, закройте приложение и установите новую версию через Setup.exe вручную. Рабочая копия приложения должна быть закрыта перед установкой.
 
 Этот репозиторий предназначен для распространения релизов. Ключи покупателей и закрытые ключи подписи здесь не публикуются.
+
+
+## Version 1.0.4 — Gemini Neon / lr26 UI fix
+
+Fixes premature generation cutoffs, reference upload hydration/clipboard locking, and conversation deletion (`gem-menu-item[data-test-id="delete-button"]`) under the updated November 2026 Gemini Web UI (`lr26` / `Gemini Neon`).
+
+Исправлены преждевременный обрыв ожидания генерации, подтверждение вставки референсов и удаление чатов в новом интерфейсе Gemini (`Gemini Neon` / `lr26`).
 
 
 ## Version 1.0.3 — update restart fix
